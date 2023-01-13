@@ -1,6 +1,6 @@
 # DMIT2015 Winter 2023 assignments
 
-## Gurkomal
+## Gurkomal Singh
 
 ## Gurkomal07
 
